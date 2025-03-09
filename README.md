@@ -35,9 +35,11 @@
 
 My tech journey started at the Technological University of Tajikistan, where I earned my Bachelor’s degree in Computer Engineering. After graduation, I was honored to receive the Global Korea Scholarship (GKS), which led me to South Korea to pursue my Master’s at Myongji University’s Department of Computer Engineering.
 
-Along the way, I explored different areas—C programming, machine learning, and data science—but backend development is where I truly found my passion! 🖥️💡
+Along the way, I explored different areas as machine learning, and data science—but backend development is where I truly found my passion! 🖥️💡
 
-From May 2022 to April 2023, I sharpened my backend skills through Skyeng’s development courses. Now, as a Junior Backend Developer, I’m actively seeking my first professional opportunity, ready to contribute, learn, and grow in the field! 🔥💼<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум! .</p>
+From May 2022 to April 2023, I sharpened my backend skills through Skyeng’s development courses. Now, as a Junior Backend Developer, I am actively searching for my first professional role where I can contribute my skills, grow as a developer, and tackle real-world challenges in backend development.
+
+I’m excited about the journey ahead and ready to bring my knowledge, problem-solving mindset, and passion for backend systems to the tech industry!🔥💼<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум! .</p>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>

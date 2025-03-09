@@ -39,12 +39,7 @@ Along the way, I explored different areas as machine learning, and data science�
 
 From May 2022 to April 2023, I sharpened my backend skills through Skyeng’s development courses. Now, as a Junior Backend Developer, I am actively searching for my first professional role where I can contribute my skills, grow as a developer, and tackle real-world challenges in backend development.
 
-I’m excited about the journey ahead and ready to bring my knowledge, problem-solving mindset, and passion for backend systems to the tech industry!🔥💼<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум! .</p>
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
+I’m excited about the journey ahead and ready to bring my knowledge, problem-solving mindset, and passion for backend systems to the tech industry!🔥💼<br><br>
 ###
 
 <h3 align="left">🛠 Технологии:</h3>

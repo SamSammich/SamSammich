@@ -31,7 +31,13 @@
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался с Технологичейского Университета Таджикистана, где делал свой Бакалавриат по специальности Компютерная Инженирия. После Оканчания Технологического Унивеститета Таджикистана, Я получил стипендию Global Korea Scholarship(GKS) Program. В Южной Корее делал свою Магистратуру в Университете Myongji University Departament of Computer Engineering. я пробовал себя во многих направлениях, пробовал изучать язык Си, Машинное обучения,  попробовал свои силы в data science, но больше всего меня зацепила Бэкенд разработка! С мая 2022 года по апрель 2023 я изучал Бэкенд разработку на курсах от Skyeng. В настоящий момент мое обучение на курсе завершено и я в поисках своей первой работы!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ .</p>
+<p align="left">I'm a Junior Backend Developer with a passion for building robust and scalable systems! 🚀
+
+My tech journey started at the Technological University of Tajikistan, where I earned my Bachelor’s degree in Computer Engineering. After graduation, I was honored to receive the Global Korea Scholarship (GKS), which led me to South Korea to pursue my Master’s at Myongji University’s Department of Computer Engineering.
+
+Along the way, I explored different areas—C programming, machine learning, and data science—but backend development is where I truly found my passion! 🖥️💡
+
+From May 2022 to April 2023, I sharpened my backend skills through Skyeng’s development courses. Now, as a Junior Backend Developer, I’m actively seeking my first professional opportunity, ready to contribute, learn, and grow in the field! 🔥💼<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум! .</p>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
